@@ -14,3 +14,13 @@
 - Now just run the `main.go` file
 - `go run main.go`
 - If you want to build it then just `go build main.go`
+
+## Features
+
+This calculator is only support simple math operation like
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (\*)
+- Division (/)
+- Modulus (%)
