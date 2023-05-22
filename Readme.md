@@ -24,3 +24,11 @@ This calculator is only support simple math operation like
 - Multiplication (\*)
 - Division (/)
 - Modulus (%)
+
+## How to use it
+
+Just simply run the program and then type math operation like `1 + 2`, and the program will display the result
+
+## Cons
+
+This program is really simple it's only accept `+, -, *, /, %` operand
